@@ -2,4 +2,4 @@
 
 ## HTML CSS JavaScript
 
-![layout](img/layout.png)
+![layout](layout.png)
